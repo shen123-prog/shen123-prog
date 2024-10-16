@@ -1,0 +1,36 @@
+1，linux coment常用命令
+2，sql调优
+3，java常见的类以及相关的常见的方法
+4，java的常用的工具包
+5，springmvc/boot 工作内核原理 控制反转等
+6，ajax常见的事件
+7，sql基础知识
+8，java的常见集合种类
+9，mvc工作流程
+10，springmvc/boot 常见的注解
+11，spring框架 check写哪里
+12，debug常用快捷键
+13，常见异常种类
+14，junit 要熟练，以及常用注解
+15，js写个判断分歧 然后用debug测试下
+16，PL/SQL学习
+
+
+
+
+17，sakura快捷键/excel快捷键/eclipse快捷键
+18，String常用方法以及底层
+19，springmvc一般配置哪些东西
+20，postgre和oracle的区别
+21，sql锁表
+22，sql临时表
+23，java语言有哪些特点，优势是什么
+24，java基础，面对对象的三大特征
+25，git，svn的使用方法
+26，一些基础；cookie和session的区别，get和post的区别，重写和重载的区别，equals和==的区别，String，StringBuilder和StringBuffer的区别
+27，试用一些log日志
+28，瀑布型开发的成果物以及作成方法
+29，测试常见观点
+30，对自己的履历书熟悉
+31，开发相关日语单词的熟悉
+32，springmvc和springboot的区别
